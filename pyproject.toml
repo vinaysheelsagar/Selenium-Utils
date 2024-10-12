@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "selenium-utils"
+version = "0.1.0"
+description = ""
+authors = ["Vinay Sagar <vine.green12@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+selenium = "^4.25.0"
+requests = "^2.32.3"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
