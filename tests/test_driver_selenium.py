@@ -5,6 +5,7 @@ import uuid
 import shutil
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.action_chains import ActionChains
+from selenium_utils import *
 
 
 def test_is_driver_present_firefox():
