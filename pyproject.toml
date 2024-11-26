@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "selenium-utils"
-version = "0.1.0"
+version = "0.2.0"
 description = ""
 authors = ["Vinay Sagar <vine.green12@gmail.com>"]
 readme = "README.md"
@@ -8,7 +8,6 @@ readme = "README.md"
 [tool.poetry.dependencies]
 python = "^3.10"
 selenium = "^4.25.0"
-requests = "^2.32.3"
 
 
 [build-system]
